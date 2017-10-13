@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using Simple.HttpPatch.Samples.Model;
 using System;
 using System.Collections.Generic;
+using Simple.HttpPatch.Samples.SharedResources.Model;
 
 namespace Simple.HttpPatch.Samples.Controllers
 {

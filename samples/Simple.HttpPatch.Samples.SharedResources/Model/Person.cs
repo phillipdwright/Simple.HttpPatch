@@ -1,6 +1,6 @@
 using System;
 
-namespace Simple.HttpPatch.Samples.Model
+namespace Simple.HttpPatch.Samples.SharedResources.Model
 {
     public class Person
     {
